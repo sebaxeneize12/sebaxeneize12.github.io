@@ -1,0 +1,40 @@
+body{ 
+    background-color: blue;
+ } 
+ header{ 
+ background-color: blue;
+} 
+ 
+section{ 
+    background-color: blue;
+} 
+  
+ .CONTENEDOR_LIMITE{ 
+margin: 0  auto;
+max-width: 700px;
+text-align: center;
+background-color: blue;
+padding: 25px;
+border: 2PX solid;
+border-radius: 10px;
+ }
+
+.card{  
+ background-color: blueviolet;
+  width:300px;
+  border:10px solid;
+  border-radius: 5px;
+  margin-left: 525px;
+margin-top: 25px;
+margin-bottom: 25px;
+padding: 25px;
+text-align: center;
+} 
+
+
+
+footer{ 
+    background-color: blue;
+} 
+
+
